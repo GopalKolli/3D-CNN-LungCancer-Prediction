@@ -1,3 +1,3 @@
 # 3D-CNN-LungCancer-Prediction
 
-This is an academic project I submitted and I do not encourage any student to use this code for their academic purposes.
+I discourage any student to use this repository for academic projects/assignments and other academic purposes.
